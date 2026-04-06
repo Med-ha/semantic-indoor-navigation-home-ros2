@@ -108,8 +108,8 @@ Used for logging / evaluation.
 
 ### Environment Views
 
-#### Custom Gazebo Home World
-![Custom home world](media/world_view.png)
+#### Gazebo Home World
+![Home world](media/world_view.png)
 
 #### Saved Occupancy Map
 ![Saved map](media/named_places_map.png)
