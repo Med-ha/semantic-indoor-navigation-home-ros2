@@ -1,0 +1,7 @@
+/approach_pose_generator:
+  ros__parameters:
+    radius: 0.65
+    num_candidates: 12
+    clearance_radius: 0.18
+    clearance_samples: 8
+    occupied_threshold: 70
